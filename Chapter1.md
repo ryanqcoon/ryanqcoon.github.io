@@ -1,11 +1,11 @@
-#CHAPTER 1
-##An Introduction to Community Schools
+# CHAPTER 1
+## An Introduction to Community Schools
 
 Every student should have access to schools with the resources, opportunities, and supports that make academic success possible and that create strong ties among families, students, schools, and community. That’s what community schools provide. They are a powerful, evidence-based strategy for creating excellent schools for every student, regardless of their race, family income level, or the zip code in which they live. 
 
 This guide provides tools for policymakers, community leaders, allies, and advocates who want to advance community schools as a strategy to improve schools, provide more equitable opportunities, and prepare students for success in life and as citizens. It builds on a large body of research and excellent resources that have been developed by community school advocates and practitioners and has benefited from the review and input of local and national experts in the field.
 
-##What Are Community Schools?
+## What Are Community Schools?
 
 Community schools are public schools that partner with families and community organizations to provide well-rounded educational opportunities and supports for students’ school success. Like every good school, community schools must be built on a foundation of powerful teaching that includes challenging academic content and supports students’ mastery of 21st Century skills and competencies. What makes community schools unique is the combination of four key features (or pillars) that together create the conditions necessary for students to thrive. The pillars are: 1) integrated student supports; 2) expanded and enriched learning time and opportunities; 3) family and community engagement; and 4) collaborative leadership and practice (We discuss each of these features in detail in Section 2).
 
@@ -17,7 +17,7 @@ Many community schools stay open year-round, from dawn to dusk, and on weekends.
 
 >Oakland International students thrive at high rates. Two thirds of those surveyed in 2015–16 said they are “happy at school,” compared to just over half of other Oakland high school students. The class of 2015 had a 72 percent 5-year graduation rate—high for this extremely vulnerable population. Fifty-one percent of the international graduating students were eligible for admission to California state universities, compared to 24 percent of their English learner peers districtwide and 46 percent of all students in the district. College enrollment rates in 2014 were 68 percent, outperforming the 2009 state average of 52 percent for English learners (the most recent statewide data available).
   
-##Why Community Schools? 
+## Why Community Schools? 
 
 We focus here on community schools as a core element of an equity strategy. By connecting the most vulnerable children and families to their fair share of resources, opportunities, and supports, community schools create the conditions necessary to advance learning and healthy development. By tapping into a community’s assets and culture—from nonprofits to museums to businesses—community schools bring powerful learning opportunities to schools that are under-resourced, and which may have narrowed the curriculum in response to fiscal constraints and testing pressures. In doing so, they help bridge the opportunity gap and reduce the achievement gap—the inequalities in students’ performance on test scores, grades, and other observable school outcomes that result from a lack of access. Although community schools alone cannot compensate for years of disinvestment in low-income communities and communities of color, they hold considerable promise for mitigating the impact of this disinvestment and creating high-quality, equitable schools. This is very good news in the face of increasing inequality in our diverse democracy. 
 
@@ -25,7 +25,7 @@ Ample research is available to inform and guide policymakers, educators, and adv
 
 Well-designed studies also suggest an excellent return in social value on investments for schools that provide integrated students supports and other community school services and opportunities. Research on the economic returns from community schools find that they range from $3 to $15 for every dollar invested. 
 
-##What Makes Community Schools Effective? 
+## What Makes Community Schools Effective? 
 
 Community schools are effective when they are comprehensive, research-based, locally owned, and designed in response to local needs and assets. Comprehensive community schools share a commitment to new ways of collaborating and sharing leadership, the use of research-supported practices, and a forging of powerful partnerships that define a community school. 
 
@@ -39,7 +39,7 @@ Not only do students’ needs and community assets differ across contexts, so do
 
 _They are Locally Developed and Owned._ The community school approach is not a prescriptive “model” with a set of pre-determined activities and services that district or state education leaders should impose on families and educators. Instead, the role of policy makers is to stipulate a framework (represented by the four pillars) to guide the work, offer technical support and advice to school teams, and provide the resources and infrastructure needed to sustain these efforts. With these supports in place, local educators, partners, families, and community members engage in a deep and collaborative inquiry process to develop a comprehensive understanding of local needs and assets. They can then design (or redesign) the schools, adapting the specifics of the pillars to address the local context. Engaging all sectors of the school community in understanding and co-constructing community schools is key to creating a shared vision and building the trusting community needed to facilitate and sustain—indeed, take ownership of—the desired changes. 
 
-##What does Effective Implementation Require? 
+## What does Effective Implementation Require? 
 
 _Pay attention to all parts of the community schools framework._ To be effective, community schools must implement all four pillars and integrate them into the core life of the school (rather than viewing community school partners and services as add-on features, for example). That said, many districts and communities go through stages of development before becoming comprehensive community schools. Two foundational first steps are: 1) develop a collaborative approach to leadership; and 2) conduct an assessment of needs and assets, the results of which should drive the priority-setting and phasing of the various elements. 
 
